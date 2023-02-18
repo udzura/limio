@@ -2,7 +2,7 @@
 
 IO limiter &amp; shaper for golang
 
-See [example](example/).
+See [examples](examples/).
 
 ## See also
 
